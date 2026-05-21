@@ -77,8 +77,29 @@ Hahmonluonti on selkeä ja ohjattu. Osa ominaisuuksista on kuitenkin lukittu mak
 
 ---------
 
-<img width="1201" height="594" alt="image" src="https://github.com/user-attachments/assets/38ae717b-6325-4943-b094-30411945adab" />
+<img width="1353" height="810" alt="image" src="https://github.com/user-attachments/assets/d3d8177f-65a4-4adb-83d0-daa4edab1110" />
+
 
 ---------
 
 <img width="721" height="532" alt="image" src="https://github.com/user-attachments/assets/da3739b9-fb97-48f7-9b9e-b72126c8e836" />
+
+---------
+
+<img width="1322" height="872" alt="image" src="https://github.com/user-attachments/assets/71879509-c0b5-4953-9aea-ffe20ab24f9f" />
+
+---------
+
+<img width="1001" height="841" alt="image" src="https://github.com/user-attachments/assets/95e16416-0abf-4aeb-873f-b32accd66592" />
+
+---------
+
+<img width="1024" height="634" alt="image" src="https://github.com/user-attachments/assets/22a1bd8c-ba2e-41b4-80a1-8eb4c0740a81" />
+
+---------
+
+<img width="1002" height="958" alt="image" src="https://github.com/user-attachments/assets/9306568b-69b8-4665-8117-2658d09993c2" />
+
+---------
+
+
