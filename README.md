@@ -74,3 +74,6 @@ Hahmonluonti on selkeä ja ohjattu. Osa ominaisuuksista on kuitenkin lukittu mak
 ### Onko joitakin ratkaisuja, joita et haluaisi käyttää?
 
 - Monimutkaiset valikot
+
+<img width="1201" height="594" alt="image" src="https://github.com/user-attachments/assets/38ae717b-6325-4943-b094-30411945adab" />
+
