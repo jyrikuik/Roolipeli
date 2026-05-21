@@ -77,8 +77,7 @@ Hahmonluonti on selkeä ja ohjattu. Osa ominaisuuksista on kuitenkin lukittu mak
 
 ---------
 
-<img width="1353" height="810" alt="image" src="https://github.com/user-attachments/assets/d3d8177f-65a4-4adb-83d0-daa4edab1110" />
-
+<img width="1112" height="607" alt="image" src="https://github.com/user-attachments/assets/9ec02a6a-815f-4361-9a24-95c2f42f64c2" />
 
 ---------
 
@@ -86,7 +85,7 @@ Hahmonluonti on selkeä ja ohjattu. Osa ominaisuuksista on kuitenkin lukittu mak
 
 ---------
 
-<img width="1322" height="872" alt="image" src="https://github.com/user-attachments/assets/71879509-c0b5-4953-9aea-ffe20ab24f9f" />
+<img width="1353" height="810" alt="image" src="https://github.com/user-attachments/assets/d3d8177f-65a4-4adb-83d0-daa4edab1110" />
 
 ---------
 
@@ -101,5 +100,3 @@ Hahmonluonti on selkeä ja ohjattu. Osa ominaisuuksista on kuitenkin lukittu mak
 <img width="1002" height="958" alt="image" src="https://github.com/user-attachments/assets/9306568b-69b8-4665-8117-2658d09993c2" />
 
 ---------
-
-
