@@ -68,7 +68,7 @@ Hahmonluonti on selkeä ja ohjattu. Osa ominaisuuksista on kuitenkin lukittu mak
 ### Haluaisitko käyttää jotain ratkaisua omassa toteutuksessasi?
 
 - Vaiheittainen hahmonluonti
-- -Selkeä käyttöliittymä
+- Selkeä käyttöliittymä
 - Kampanjoiden hallintasivu
 
 ### Onko joitakin ratkaisuja, joita et haluaisi käyttää?
