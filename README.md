@@ -75,5 +75,10 @@ Hahmonluonti on selkeä ja ohjattu. Osa ominaisuuksista on kuitenkin lukittu mak
 
 - Monimutkaiset valikot
 
+---------
+
 <img width="1201" height="594" alt="image" src="https://github.com/user-attachments/assets/38ae717b-6325-4943-b094-30411945adab" />
 
+---------
+
+<img width="721" height="532" alt="image" src="https://github.com/user-attachments/assets/da3739b9-fb97-48f7-9b9e-b72126c8e836" />
