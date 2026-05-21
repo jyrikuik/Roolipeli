@@ -24,7 +24,7 @@ Sovelluksen minimivaatimukset:
 
 ## D&D Beyond
 
-D&D Beyond oli ensimmäinen sovellus, jota tutkin projektia varten. Se vaikutti heti todella viimeistellyltä ja selkeältä palvelulta. Sovelluksen päätarkoitus on auttaa Dungeons & Dragons -pelaajia hahmojen luonnissa, sääntöjen hallinnassa ja kampanjoiden pyörittämisessä.
+D&D Beyond oli ensimmäinen sovellus, jota tutkin projektia varten. Se vaikutti heti selkeimmältä palvelulta. Sovelluksen päätarkoitus on auttaa Dungeons & Dragons -pelaajia hahmojen luonnissa, sääntöjen hallinnassa ja kampanjoiden pyörittämisessä.
 
 Sovellus on suunnattu sekä tavallisille pelaajille että pelinjohtajille. Pelaajat voivat tehdä omia hahmojaan ja seurata niiden tietoja, kun taas pelinjohtajat voivat hallita kampanjoita ja jakaa sisältöä ryhmälle.
 
