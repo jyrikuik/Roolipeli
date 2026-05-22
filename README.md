@@ -1,8 +1,8 @@
 # Roolipeliprojektin alkusuunnitelma – Jyri Kuikka
 
-Tämän projektin ideana on tehdä selainpohjainen roolipelisovellus, jossa pelaajat voivat luoda omia hahmoja, liittyä kampanjoihin ja pelinjohtajat voivat hallita omia pelejään. Tarkoitus olisi tehdä sovelluksesta mahdollisimman helppokäyttöinen ja selkeä, jotta se olisi mahdollisimman helppokäyttöinen myös sellaisille ihmisille, jotka eivät ole käyttäneet vastaavaa alustaa aikaisemmin.
+Tämän projektin ideana on tehdä selainpohjainen roolipelisovellus, jossa pelaajat voivat luoda omia hahmoja, liittyä kampanjoihin ja pelinjohtajat voivat hallita omia pelejään. Tarkoitus olisi tehdä sovelluksesta mahdollisimman helppokäyttöinen ja selkeä, jotta se olisi mahdollisimman helppo myös sellaisille ihmisille, jotka eivät ole käyttäneet vastaavaa alustaa aikaisemmin.
 
-Halusin suunnitella sovelluksen enemmän käytännöllisestä näkökulmasta kuin liian monimutkaisena järjestelmänä. Tärkeintä olisi, että käyttäjä löytää helposti omat hahmonsa, kampanjansa ja tärkeimmät toiminnot ilman että käyttöliittymä tuntuu sekavalta.
+Halusin suunnitella sovelluksen enemmän käytännöllisestä näkökulmasta kuin liian monimutkaisena järjestelmänä. Tärkeintä olisi, että käyttäjä löytää helposti omat hahmonsa, kampanjansa ja tärkeimmät toiminnot ilman että sivusto tuntuu sekavalta.
 
 Projektissa yhdistyisi hahmonhallinta, kampanjoiden luominen ja yhteinen pelaaminen samassa palvelussa. Inspiraatiota suunnitteluun on otettu erityisesti D&D Beyondista ja Roll20:stä.
 
